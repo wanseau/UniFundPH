@@ -71,3 +71,5 @@ soroban contract deploy \
   --network testnet
 ```
 Contract ID: CD5S5LLYTYXBVXE7VMWWEKDTGPW7NEJ4DHG24HS3XTEUNERDWFF2T5SO
+Link: https://stellar.expert/explorer/testnet/contract/CD5S5LLYTYXBVXE7VMWWEKDTGPW7NEJ4DHG24HS3XTEUNERDWFF2T5SO
+![alt text](image.png)
